@@ -1,0 +1,13 @@
+{
+  "name": "tinywan/encryption",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin tinywan/encryption",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Tinywan\\Encryption\\": "src"
+    }
+  }
+}
